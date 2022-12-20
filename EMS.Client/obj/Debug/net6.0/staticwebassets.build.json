@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XB1fOWX8O4O5IWt63Y6xvnAcSU+Y/vAPYwNGE3rnL8Y=",
+  "Source": "EMS.Client",
+  "BasePath": "_content/EMS.Client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

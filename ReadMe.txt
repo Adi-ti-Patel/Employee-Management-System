@@ -9,3 +9,4 @@ EMS.Data          : Class Library
 EMS.Client        : ASP .Net Core Web API
 EMS.UnitTesting   : xUnit Test Project 
 management-system : Angular
+DataBase          : SQL Server 
